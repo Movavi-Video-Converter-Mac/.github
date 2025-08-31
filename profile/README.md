@@ -14,14 +14,6 @@
 
 ---
 
-**Short Description:**  
-Movavi Video Converter Mac quickly converts video, audio, and images with high quality and speed.  
-
-**SEO Description:**  
-Download Movavi Video Converter for Mac – fast MP4 converter with batch conversion, compression, and Apple Silicon support.  
-
----
-
 ## Installation via .dmg:
 
 1. Install the `.dmg` file using the button above.  
